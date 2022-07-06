@@ -1,7 +1,7 @@
 ### Hi Developers 👋
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Arjoo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/megha-godase-12b563196/)](https://www.linkedin.com/in/megha-godase-12b563196/)
+[![Linkedin Badge](https://img.shields.io/badge/-Megha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/megha-godase-12b563196/)](https://www.linkedin.com/in/megha-godase-12b563196/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Megha-yellow)](https://stackoverflow.com/users/19408647/megha-godase)
 
 I'm
@@ -20,7 +20,7 @@ I am interested in fullstack web development. I have skills that include C, C++,
 
 Languages and Tools: 
 
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/> <img alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=azure-devops&logoColor=white"/> <img alt="SQL" src="https://img.shields.io/badge/sql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white"/> <img alt=".NET" src ="https://img.shields.io/badge/.NET-%234ea94b.svg?style=flat-square&logo=.net&logoColor=white"/>
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/>  <img alt="SQL" src="https://img.shields.io/badge/sql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white"/> <img alt="Python" src ="https://img.shields.io/badge/.NET-%234ea94b.svg?style=flat-square&logo=.net&logoColor=white"/>
 
 ![](https://activity-graph.herokuapp.com/graph?username=megha52&theme=react-dark&area=true)
 <!--
